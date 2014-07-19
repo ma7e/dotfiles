@@ -1,0 +1,6 @@
+[user]
+	name = maye
+	email maye@outlook.jp
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore
